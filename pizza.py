@@ -3,5 +3,3 @@ print (pizza)
 print (pizza)
 orange = "Citrus"
 print (orange)
-print (orange)
-print (orange)
